@@ -21,7 +21,6 @@ private:
 	//using vector STL for my all 3 pegs of the disc
 	vector<int> pegA, pegB, pegC;
 public:
-	//TowersOfHanoi();
 	//member function to print the Pegs
 	void printPegs(const vector<int>& pegA, const vector<int>& pegB, const vector<int>& pegC);
 
